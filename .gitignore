@@ -1,6 +1,15 @@
+.vs
 .vscode
 .kdev4
+*.VC.db
+*.VC.opendb
+*.user
 *.kdev4
+include
 build
 build_*
 tools/asmdb
+Win32/Debug
+Win32/Release
+x64/Debug
+x64/Release
